@@ -1,0 +1,52 @@
+{
+    "people": [
+        {
+            "name": "Ena"
+        },
+        {
+            "name": "Toby",
+            "freePass": [
+                {
+                    "name": "Brush hair"
+                }
+            ]
+        }
+    ],
+    "dailyTasks":[
+        {
+            "end": "07:30",
+            "start": "07:00",
+            "name": "Go to toilet"
+        },
+        {
+            "end": "07:40",
+            "start": "07:30",
+            "name": "Get dressed"
+        },
+        {
+            "end": "08:00",
+            "start": "07:40",
+            "name": "Eat breakfast"
+        },
+        {
+            "end": "08:05",
+            "start": "08:00",
+            "name": "Clear table"
+        },
+        {
+            "end": "08:10",
+            "start": "08:05",
+            "name": "Brush teeth"
+        },
+        {
+            "end": "08:20",
+            "start": "08:10",
+            "name": "Brush hair"
+        },
+        {
+            "end": "08:30",
+            "start": "08:20",
+            "name": "Shoes and coat on"
+        }
+    ]
+}
